@@ -182,7 +182,7 @@ Příklady několika zápisů:
 
 Budeš-li vzorce potřebovat a tato notace je pro tebe nová, není třeba se učit
 vše kolem jazyka LaTeX, stačí ti jednoduchá pravidla pro zápis matematických
-vzorců. Pomůže ti např. [tento článek](http://programujte.com/clanek/2014041700-latex-3-prvni-matematicke-krucky/). 
+vzorců. Pomůže ti např. [tato nápověda](https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Matematick%C3%A9_vzorce/) z české wikipedie.
 
 ## Další užitečné funkce
 
