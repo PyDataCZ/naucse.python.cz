@@ -22,17 +22,17 @@ plan:
   - lesson: pydata/pandas
 
 - title: Explorační datová analýza a analýza jedné proměnné
-  slug: pandas
+  slug: univariate
   materials:
   - lesson: pydata/univariate
 
 - title: EDA - Analýza více proměnných a vztahů
-  slug: pandas
+  slug: multivariate
   materials:
   - lesson: pydata/multivariate
 
 - title: EDA - Nulové hodnoty a odlehlá pozorování
-  slug: pandas
+  slug: null_and_outliers
   materials:
   - lesson: pydata/null_and_outliers
 
