@@ -101,7 +101,7 @@ plan:
   materials:
   - lesson: pydata/pca
 
-- title: Interaktivní vizualizace a aplikace
+- title: Interaktivní vizualizace a aplikace (virtuální)
   slug: dashboards
   date: 2020-05-14
   materials:
