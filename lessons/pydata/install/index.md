@@ -45,6 +45,6 @@ Tímto příkazem se do virtuálního prostředí nainstalovaly následující k
 * Sqlalchemy - knihovna pro sjednocený, vysokoúrovňový přístup k databázím
 * Xlrd - knihovna pro načítání souborů .xls/.xlsx
 
-Pokud kterýkoliv z kroků selže, nebo si jen nebudeš vědět rady, zepte se na Slacku v kanále `#poradna`, ideálně ještě před zahájením kurzu.
+Pokud kterýkoliv z kroků selže, nebo si jen nebudeš vědět rady, zeptej se na Slacku v kanále `#poradna`, ideálně ještě před zahájením kurzu.
 
 V následující kapitole se podíváme na to, jak Jupyter spustit a jak s ním pracovat.
