@@ -10,7 +10,7 @@ Pokud ne, jedna z následujících tří alternativních cest by tě do takové 
 
 - Obecný návod na instalaci máme k dispozici [v začátečnickém kurzu](https://naucse.python.cz/course/pyladies/sessions/install/). Až budeš vybírat instalátor, sáhni po tom s nejnovější verzí (v okamžiku začátku kurzu 3.8.5), ideálně v 64bitové verzi.
 
-- Můžeš použít distribucí [miniconda](https://docs.conda.io/en/latest/miniconda.html), s ní by také neměly být problémy. Lidé z oblasti data science (včetně některých autorů těchto materiálů) ji rádi používají - sice se tak připravují o práci s "čistým" Pythonem, ale zjednodušují si instalaci některých (zejména výpočetních) knihoven, které závisejí na externích binárních balíčcích.
+- Můžeš použít distribuci [miniconda](https://docs.conda.io/en/latest/miniconda.html), s ní obvykle nebývají problémy. Lidé z oblasti data science (včetně některých autorů těchto materiálů) ji rádi používají - sice se tak připravují o práci s "čistým" Pythonem, ale zjednodušují si instalaci některých (zejména výpočetních) knihoven, které závisejí na externích binárních balíčcích. Na vytváření virtuálních prostředí a instalace pak slouží příkaz `conda`, viz [dokumentace](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html).
 
 ## Adresář, vytvoření a aktivace virtuálního prostředí
 
@@ -23,7 +23,7 @@ v [materiálech pro začátečnický kurz](https://naucse.python.cz/2019/pyladie
 Po každém spuštění příkazové řádky bude potřeba aktivovat virtuální prostředí, abychom
 mohli pracovat s knihovnami a nástroji v něm nainstalovanými.
 
-## Instalace
+## Instalace knihoven
 
 Do příkazové řádky s aktivním virtuálním prostředím zadej následující příkaz:
 
