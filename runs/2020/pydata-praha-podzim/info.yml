@@ -49,6 +49,8 @@ plan:
 - title: "Explorativní datová analýza a pokročilejší manipulace"
   slug: eda5
   date: 2020-10-13
+  materials:
+    - lesson: pydata/pandas_groupby
 
 - title: "Opakovací hodina (bez materiálů)"
   slug: opakovani
