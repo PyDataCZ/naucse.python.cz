@@ -1,13 +1,14 @@
 # Domácí příprava na první hodinu strojového učení
 **Povinné** :)
 
-Konečně se dočkáte Úvodu do strojového učení a seznámení s
-regresí. Vzhledem  k situaci bude hodina ještě mnohem experimentálnější než se
-čekalo, proto Vás prosíme o shovívavost a hlavně spolupráci.
+Příští hodinu nás čeká **Úvod do strojového učení a seznámení s regresí**. 
 
-Hodinu jsme připravovali tak, aby byla co nejvíce interaktivní. Proto jsme
-ji nechtěli (a stále nechceme) učit online. Není ale jiné cesty, tak nám pojďte
-pomoci.
+Hodinu jsme připravovali tak, aby byla co nejvíce interaktivní. Proto nejsme
+příliš nadšeni z toho, že ji musíme učit online. Není ale jiné cesty, tak nám
+pojďte pomoci.
+
+Tentokrát není vaším úkolem přečíst před hodinou materiály, ale naopak vám to
+zakazujeme. 
 
 **Nechceme vám říkat, jak se věci mají dělat, chceme, abyste věděli, co chcete
 dělat a proč. Proto je naším cílem donutit vás, abyste si správný postup
@@ -74,8 +75,8 @@ A začneme domácími úkoly:
     mailem, dovysvětlíme.
 
 3. Obrázek vyfoť a spolu s odpověďmi na otázky pošli na slacku do soukromé
-   zprávy nebo na mail frenzy.madness@gmail.com. Na začátku hodiny vaše nápady
-   shrneme (nikdo nebude jmenován) a pobavíme se o nich.
+   zprávy nebo na mail petra.vidnerova@gmail.com. Na začátku hodiny vaše nápady
+   shrneme (neboj, nikdo nebude jmenován) a pobavíme se o nich.
 
 4. Obrázek nezahazuj, budeš ho v hodině ještě potřebovat!
 
