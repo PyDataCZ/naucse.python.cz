@@ -56,9 +56,13 @@ plan:
   slug: opakovani
   date: 2020-10-20
 
-- title: Úvod do strojového učení (ML)
+
+- title: Strojové učení - úvod, regrese
   slug: ml1
   date: 2020-10-27
+  materials:
+  - lesson: pydata/ml1_home_prep
+
 
 - title: Strojové učení - Supervised ML 1
   slug: ml2
