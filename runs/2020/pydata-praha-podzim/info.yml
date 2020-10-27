@@ -50,7 +50,7 @@ plan:
   slug: eda5
   date: 2020-10-13
   materials:
-    - lesson: pydata/pandas_groupby
+  - lesson: pydata/pandas_groupby
 
 - title: "Opakovací hodina (bez materiálů)"
   slug: opakovani
@@ -62,6 +62,10 @@ plan:
   date: 2020-10-27
   materials:
   - lesson: pydata/ml1_home_prep
+  - lesson: pydata/intro_regression
+  - lesson: pydata/regression_exercises
+  - lesson: pydata/regression_metrics
+  - lesson: pydata/regression_resume
 
 
 - title: Strojové učení - Supervised ML 1
