@@ -68,9 +68,13 @@ plan:
   - lesson: pydata/regression_resume
 
 
-- title: Strojové učení - Supervised ML 1
+- title: Strojové učení - knihovna scikit-learn, workflow procesu učení
   slug: ml2
   date: 2020-11-03
+  materials:
+  - lesson: pydata/scikitlearn_api
+  - lesson: pydata/homework_revisited
+  - lesson: pydata/scikitlearn_resume
 
 - title: Strojové učení - Supervised ML 2
   slug: ml3
