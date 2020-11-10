@@ -83,7 +83,6 @@ plan:
   - lesson: pydata/classification_metrics
   - lesson: pydata/classification_resume
 
-
 - title: Analýza hlavních komponent (PCA)
   slug: pca
   date: 2020-11-24
