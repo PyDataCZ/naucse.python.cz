@@ -76,9 +76,13 @@ plan:
   - lesson: pydata/homework_revisited
   - lesson: pydata/scikitlearn_resume
 
-- title: Strojové učení - Supervised ML 2
+- title: Strojové učení - klasifikace
   slug: ml3
   date: 2020-11-10
+  - lesson: pydata/intro_classification
+  - lesson: pydata/classification_metrics
+  - lesson: pydata/classification_resume
+
 
 - title: Analýza hlavních komponent (PCA)
   slug: pca
