@@ -87,6 +87,8 @@ plan:
 - title: Analýza hlavních komponent (PCA)
   slug: pca
   date: 2020-11-24
+  materials:
+  - lesson: pydata/pca  
 
 - title: Interaktivní vizualizace a aplikace
   slug: dashboards
