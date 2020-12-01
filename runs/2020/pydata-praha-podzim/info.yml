@@ -93,6 +93,10 @@ plan:
 - title: Interaktivní vizualizace a aplikace
   slug: dashboards
   date: 2020-12-01
+  materials:
+  - lesson: pydata/dashboards
+  - lesson: pydata/dashboards-2
+  
 
 - title: API
   slug: api
