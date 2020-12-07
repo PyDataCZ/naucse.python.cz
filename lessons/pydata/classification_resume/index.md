@@ -13,6 +13,8 @@
 
 - [Knihovna scikit-learn](https://scikit-learn.org/stable/) - podrobná dokumentace, mnoho příkladů 
 - [Data camp tutorials](https://www.datacamp.com/community/tutorials) - občas něco i o ML 
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/#python) - Python Machine Learning  (scikit-learn)
+
 
 - Jiří Materna natočil během jarního lockdownu sadu krátkých videí s hezkým úvodem do ML:
   + [Co je strojové učení](https://www.youtube.com/watch?v=bo5nLkjYvMg&t=5s)
@@ -23,5 +25,3 @@
   + [Neuronové sítě a deep learning](https://www.youtube.com/watch?v=0Hqz8u2TEcg&t=3s)
   
   - řada knih (pozor, knihy rychle stárnou), např. **Géron Aurélien, Hands-On Machine Learning With Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems**, kódy na [ageron/handson-ml](https://github.com/ageron/handson-ml)
-  
- 
