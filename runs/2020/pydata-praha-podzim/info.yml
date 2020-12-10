@@ -56,7 +56,6 @@ plan:
   slug: opakovani
   date: 2020-10-20
 
-
 - title: Strojové učení - úvod, regrese
   slug: ml1
   date: 2020-10-27
@@ -66,7 +65,6 @@ plan:
   - lesson: pydata/regression_exercises
   - lesson: pydata/regression_metrics
   - lesson: pydata/regression_resume
-
 
 - title: Strojové učení - knihovna scikit-learn, workflow procesu učení
   slug: ml2
@@ -96,11 +94,12 @@ plan:
   materials:
   - lesson: pydata/dashboards
   - lesson: pydata/dashboards-2
-  
 
 - title: API
   slug: api
   date: 2020-12-08
+  materials:
+  - lesson: pydata/api
 
 - title: Databáze
   slug: databaze
