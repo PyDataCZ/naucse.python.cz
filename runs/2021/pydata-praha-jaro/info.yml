@@ -1,0 +1,24 @@
+title: Datový kurz PyLadies
+subtitle: Praha - podzim 2020
+time: 18:00–20:00
+default_time:
+  start: '18:00'
+  end: '20:00'
+place: on-line
+description: Úvod do získávání, manipulace a analýzy dat, základy strojového učení.
+long_description: |
+    Tady najdeš všechny materiály k pražské verzi datového kurzu
+    PyLadies - budou přibývat postupně, jak budeme procházet kurzem.
+
+    [PyData]: http://pydata.cz/
+
+    [PyLadies]: http://pyladies.cz/
+vars:
+  user-gender: f
+  pyladies: true
+  coach-present: true
+
+plan:
+- title: "Představení, Jupyter notebook, základy pandas"
+  slug: eda1
+  date: 2021-03-17
