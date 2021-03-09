@@ -22,3 +22,7 @@ plan:
 - title: "Představení, Jupyter notebook, základy pandas"
   slug: eda1
   date: 2021-03-17
+  materials:
+  - lesson: pydata/install
+  - lesson: pydata/notebook
+  - lesson: pydata/pandas_core  
