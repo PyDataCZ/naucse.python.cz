@@ -25,7 +25,7 @@ plan:
   materials:
   - lesson: pydata/install
   - lesson: pydata/notebook
-  - lesson: pydata/pandas_core  
+  - lesson: pydata/pandas_core
 
 - title: "Datové typy a základy vizualizace v pandas"
   slug: eda2
@@ -33,6 +33,12 @@ plan:
   materials:
   - lesson: pydata/pandas_types
   - lesson: pydata/visualization_basics
+
+- title: "Explorativní datová analýza a statistika jedné proměnné"
+  slug: eda3
+  date: 2021-03-31
+  materials:
+  - lesson: pydata/eda-univariate-timeseries
 
 - title: "Oslava slunovratu a konce kurzu"
   slug: konec
