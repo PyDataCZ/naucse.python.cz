@@ -42,7 +42,7 @@ plan:
 
 - title: "Explorativní datová analýza a více zdrojů / proměnných"
   slug: eda4
-  date: 2020-04-07
+  date: 2021-04-07
   materials:
   - lesson: pydata/pandas_correlations
 
