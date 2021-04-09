@@ -46,6 +46,12 @@ plan:
   materials:
   - lesson: pydata/pandas_correlations
 
+- title: "Explorativní datová analýza a více zdrojů / proměnných"
+  slug: eda4
+  date: 2021-04-14
+  materials:
+  - lesson: pydata/pandas_correlations  
+
 - title: "Oslava slunovratu a konce kurzu"
   slug: konec
   date: 2021-06-23
