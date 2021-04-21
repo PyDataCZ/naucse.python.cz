@@ -52,6 +52,16 @@ plan:
   materials:
   - lesson: pydata/pandas_groupby
 
+- title: "Opakovací hodina (bez materiálů)"
+  slug: opakovani
+  date: 2021-04-21
+
+- title: Strojové učení - úvod, regrese
+  slug: ml1
+  date: 2021-04-28
+  materials:
+  - lesson: pydata/ml1_home_prep
+
 - title: "Oslava slunovratu a konce kurzu"
   slug: konec
   date: 2021-06-23
