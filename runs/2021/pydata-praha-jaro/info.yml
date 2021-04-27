@@ -61,6 +61,10 @@ plan:
   date: 2021-04-28
   materials:
   - lesson: pydata/ml1_home_prep
+  - lesson: pydata/intro_regression
+  - lesson: pydata/regression_exercises
+  - lesson: pydata/regression_metrics
+  - lesson: pydata/regression_resume
 
 - title: "Oslava slunovratu a konce kurzu"
   slug: konec
