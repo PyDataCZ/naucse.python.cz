@@ -66,6 +66,14 @@ plan:
   - lesson: pydata/regression_metrics
   - lesson: pydata/regression_resume
 
+- title: Strojové učení - knihovna scikit-learn, workflow procesu učení
+  slug: ml2
+  date: 2021-05-05
+  materials:
+  - lesson: pydata/scikitlearn_api
+  - lesson: pydata/homework_revisited
+  - lesson: pydata/scikitlearn_resume
+
 - title: "Oslava slunovratu a konce kurzu"
   slug: konec
   date: 2021-06-23
