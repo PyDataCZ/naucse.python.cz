@@ -74,6 +74,14 @@ plan:
   - lesson: pydata/homework_revisited
   - lesson: pydata/scikitlearn_resume
 
+- title: Strojové učení - klasifikace
+  slug: ml3
+  date: 2021-05-12
+  materials:
+  - lesson: pydata/intro_classification
+  - lesson: pydata/classification_metrics
+  - lesson: pydata/classification_resume
+
 - title: "Oslava slunovratu a konce kurzu"
   slug: konec
   date: 2021-06-23
