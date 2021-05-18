@@ -82,6 +82,12 @@ plan:
   - lesson: pydata/classification_metrics
   - lesson: pydata/classification_resume
 
+- title: Analýza hlavních komponent (PCA)
+  slug: pca
+  date: 2021-05-19
+  materials:
+  - lesson: pydata/pca
+
 - title: "Oslava slunovratu a konce kurzu"
   slug: konec
   date: 2021-06-23
