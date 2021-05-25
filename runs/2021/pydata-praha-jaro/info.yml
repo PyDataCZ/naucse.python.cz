@@ -88,6 +88,13 @@ plan:
   materials:
   - lesson: pydata/pca
 
+- title: Interaktivní vizualizace a aplikace
+  slug: dashboards
+  date: 2021-05-26
+  materials:
+  - lesson: pydata/dashboards
+  - lesson: pydata/dashboards-2
+
 - title: "Oslava slunovratu a konce kurzu"
   slug: konec
   date: 2021-06-23
