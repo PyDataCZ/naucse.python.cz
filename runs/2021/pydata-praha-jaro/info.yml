@@ -95,6 +95,12 @@ plan:
   - lesson: pydata/dashboards
   - lesson: pydata/dashboards-2
 
+- title: API
+  slug: api
+  date: 2021-06-02
+  materials:
+  - lesson: pydata/api
+
 - title: "Oslava slunovratu a konce kurzu"
   slug: konec
   date: 2021-06-23
